@@ -1,0 +1,40 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<JLibraryNode nselem="JLibraryNode" class="oracle.jdeveloper.library.JLibraryNode" deployedByDefault="false" xmlns="http://xmlns.oracle.com/jdeveloper/110000jlibrarynode">
+   <classPath>
+      <entries>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibPlatformUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibUserProfileUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibUserRolesUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibCatalogUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibUnauthenticatedUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibAuthenticatedServicesUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibHomepageUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibRoleUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibOrganizationUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibFormServiceUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibTesterUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibPendingApprovalsUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibITResourceUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibManageUsersUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibPasswordPoliciesUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibApprovalDetailsUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibCommonUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibAppInstanceUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibPendingAttesttationUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibRoleCategoryUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibProvTaskFormUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibCertificationUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibTaskDetailsUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibPendingCertificationsUI.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.view_11.1.2/adflibCertificationDetailsUI.jar" jar-entry=""/>
+      </entries>
+   </classPath>
+   <docPath>
+      <entries class="[Ljava.net.URL;"/>
+   </docPath>
+   <locked>false</locked>
+   <name>OIM View Shared Library</name>
+   <sourcePath>
+      <entries class="[Ljava.net.URL;"/>
+   </sourcePath>
+</JLibraryNode>

@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<JLibraryNode nselem="JLibraryNode" class="oracle.jdeveloper.library.JLibraryNode" deployedByDefault="true" xmlns="http://xmlns.oracle.com/jdeveloper/110000jlibrarynode">
+   <classPath>
+      <entries>
+         <Item path="../../../../../iam-lib/internal/dap-api.jar" jar-entry=""/>
+         <Item path="../../../../../iam-lib/internal/nap-api.jar" jar-entry=""/>
+         <Item path="../../../../../iam-lib/org.codehaus.jackson.core.asl.jar" jar-entry=""/>
+         <Item path="../../../../../iam-lib/org.codehaus.jackson.mapper.asl.jar" jar-entry=""/>
+      </entries>
+   </classPath>
+   <docPath/>
+   <locked>true</locked>
+   <name>ADF Library Dependencies</name>
+   <sourcePath/>
+</JLibraryNode>

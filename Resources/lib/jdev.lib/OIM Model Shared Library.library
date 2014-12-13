@@ -1,0 +1,35 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<JLibraryNode nselem="JLibraryNode" class="oracle.jdeveloper.library.JLibraryNode" deployedByDefault="false" xmlns="http://xmlns.oracle.com/jdeveloper/110000jlibrarynode">
+   <classPath>
+      <entries>
+         <Item path="../modules/oracle.iam.ui.model_11.1.2/adflibCommonModel.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.model_11.1.2/adflibPlatformModel.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.model_11.1.2/adflibUserProfileModel.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.model_11.1.2/adflibUserRolesModel.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.model_11.1.2/adflibUnauthenticatedModel.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.model_11.1.2/adflibAuthenticatedServicesModel.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.model_11.1.2/adflibHomepageModel.jar" jar-entry=""/>
+	 <Item path="../modules/oracle.iam.ui.model_11.1.2/adflibRoleModel.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.model_11.1.2/adflibOrganizationModel.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.model_11.1.2/adflibCatalogModel.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.model_11.1.2/adflibFormServiceModel.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.model_11.1.2/adflibAttributeTesterModel.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.model_11.1.2/adflibITResourceModel.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.model_11.1.2/adflibAppInstanceModel.jar" jar-entry=""/>
+	 <Item path="../modules/oracle.iam.ui.model_11.1.2/adflibManageUsersModel.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.model_11.1.2/adflibPasswordPoliciesModel.jar" jar-entry=""/>
+	 <Item path="../modules/oracle.iam.ui.model_11.1.2/adflibPendingAttestationModel.jar" jar-entry=""/>
+	 <Item path="../modules/oracle.iam.ui.model_11.1.2/adflibRoleCategoryModel.jar" jar-entry=""/>
+	 <Item path="../modules/oracle.iam.ui.model_11.1.2/adflibCustomizationExtensionModel.jar" jar-entry=""/>
+         <Item path="../modules/oracle.iam.ui.model_11.1.2/adflibCertificationModel.jar" jar-entry=""/>
+      </entries>
+   </classPath>
+   <docPath>
+      <entries class="[Ljava.net.URL;"/>
+   </docPath>
+   <locked>false</locked>
+   <name>OIM Model Shared Library</name>
+   <sourcePath>
+      <entries class="[Ljava.net.URL;"/>
+   </sourcePath>
+</JLibraryNode>
