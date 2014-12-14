@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mds:customization version="11.1.1.64.93" xmlns:mds="http://xmlns.oracle.com/mds" motype_local_name="root" motype_nsuri="http://java.sun.com/JSP/Page">
+   <mds:insert parent="pgl11" position="last">
+      <af:spacer xmlns:af="http://xmlns.oracle.com/adf/faces/rich" width="10" id="e5907476489" height="10"/>
+   </mds:insert>
+   <mds:insert parent="pgl11" position="last">
+      <af:commandImageLink xmlns:af="http://xmlns.oracle.com/adf/faces/rich" id="e3869694827" icon="/images/passwordField.png" text="Custom Password Reset" shortDesc="test3">
+         <af:showPopupBehavior xmlns:af="http://xmlns.oracle.com/adf/faces/rich" popupId="confPopup1" triggerType="click"/>
+      </af:commandImageLink>
+   </mds:insert>
+   <mds:insert parent="pgl11" position="last">
+      <af:popup xmlns:af="http://xmlns.oracle.com/adf/faces/rich" id="confPopup1">
+         <af:dialog xmlns:af="http://xmlns.oracle.com/adf/faces/rich" title="Confirm Password Reset" id="confDialog1" type="yesNo" dialogListener="#{backingBeanScope.customPasswordResetBean.confirmReset}"/>
+      </af:popup>
+   </mds:insert>
+   <mds:move node="s13" parent="pgl11" position="last"/>
+   <mds:move node="cil1" parent="pgl11" position="last"/>
+   <mds:move node="s7" parent="pgl11" position="last"/>
+   <mds:move node="cil2" parent="pgl11" position="last"/>
+   <mds:move node="s8" parent="pgl11" position="last"/>
+   <mds:move node="cil3" parent="pgl11" position="last"/>
+   <mds:move node="s9" parent="pgl11" position="last"/>
+   <mds:move node="cil4" parent="pgl11" position="last"/>
+   <mds:move node="s10" parent="pgl11" position="last"/>
+   <mds:move node="cil5" parent="pgl11" position="last"/>
+   <mds:move node="s11" parent="pgl11" position="last"/>
+   <mds:move node="cil7" parent="pgl11" position="last"/>
+   <mds:move node="s17" parent="pgl11" position="last"/>
+   <mds:move node="cil6" parent="pgl11" position="last"/>
+   <mds:modify element="pgl11">
+      <mds:attribute name="partialTriggers" value="ctb3"/>
+   </mds:modify>
+</mds:customization>
