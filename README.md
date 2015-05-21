@@ -7,3 +7,4 @@ OIMCustomPasswordResetBean
   
 ##### Description  
 This is a development of an Oracle Identity Manager bean used for password reset customization.   
+Instructions: http://oraclestack.blogspot.com/2014/12/oim-managed-bean-example-custom.html
